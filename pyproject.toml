@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "leetcode200"
+version = "0.1.0"
+description = ""
+authors = ["jarvis <thanh.phuong@aivision.vn>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
